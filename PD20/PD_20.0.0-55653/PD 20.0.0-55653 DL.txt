@@ -1,0 +1,3 @@
+PD 20.0.0-55653 DL
+
+https://download.parallels.com/desktop/v20/20.0.0-55653/ParallelsDesktop-20.0.0-55653.dmg
